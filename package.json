@@ -1,0 +1,19 @@
+{
+  "name": "learninges6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chapter2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balindrarayamajhi/LearningES6.git"
+  },
+  "author": "Balindra Rayamajhi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/balindrarayamajhi/LearningES6/issues"
+  },
+  "homepage": "https://github.com/balindrarayamajhi/LearningES6#readme"
+}
